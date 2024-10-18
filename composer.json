@@ -1,0 +1,20 @@
+{
+    "name": "max26/serv-lab1",
+    "description": "composer lab",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Max26\\ServLab1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maksym Maruda",
+            "email": "max26704@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
